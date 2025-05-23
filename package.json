@@ -1,0 +1,27 @@
+{
+  "name": "p4planapi-nodejs-examples",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Examples to explore the P4 Plan API using NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hansoft/P4PlanAPI-NodeJS-Examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hansoft/P4PlanAPI-NodeJS-Examples/issues"
+  },
+  "homepage": "https://github.com/Hansoft/P4PlanAPI-NodeJS-Examples#readme",
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "dotenv": "^16.5.0",
+    "graphql-request": "^7.1.2",
+    "jwt-decode": "^4.0.0"
+  }
+}
